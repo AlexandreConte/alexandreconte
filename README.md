@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 - 🎒 Studying at Federal University of Santa Catarina (UFSC) - Bachelor of Information Systems
-- 💻 Also student at National Commercial Learning Service (SENAC) - Technology in Systems Analysis and Development
-- 🔔 Currently looking for a NodeJS fullstack developer position
+- 🔔 Currently looking for a fullstack developer position with JavaScript / TypeScript
 
 <div align="center">
   
