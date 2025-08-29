@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🎒 Studying at Federal University of Santa Catarina (UFSC) - Bachelor of Information Systems
-- 🔔 Currently looking for a fullstack developer position with JavaScript / TypeScript
 
 <div align="center">
   
